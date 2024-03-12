@@ -1,0 +1,14 @@
+class{
+    background-color: red;
+}
+email{
+    color: blue;
+    font-size: 30px;
+}
+student_info{
+    display: block;
+    background-color: yellow;
+    border-width: 2px;
+    border-color: blue;
+    border-style: dotted;
+}
